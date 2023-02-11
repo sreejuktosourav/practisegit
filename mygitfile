@@ -15,3 +15,6 @@ git status
 git add .(. will stage all the file which are untracked)
 git add <file name> (mentioning file name will only add the exact file not the other files)
 git commit -m "Message you want to put about the information of the commit"
+
+#stage and commit the file directly
+git commit -a 
