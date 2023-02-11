@@ -18,3 +18,12 @@ git commit -m "Message you want to put about the information of the commit"
 
 #stage and commit the file directly
 git commit -a 
+
+#push git may fail, solution to set the URL again
+git remote set-url origin https://github.com/sreejuktosourav/practisegit.git
+
+#git change the local branch from mater to main
+git branch -M main
+
+#git push all to remote
+git push --all
