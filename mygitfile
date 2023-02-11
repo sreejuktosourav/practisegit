@@ -1,1 +1,12 @@
 this is the file I will upload to github
+#Usefull Command
+
+#This will add the name and email for global configuration information
+git config --global user.name "Sourav Das"
+git config --global user.email "sreejuktosourav@outlook.com"
+
+#Initialize git
+git init 
+
+#Check status - Checking status is a very helpfull information
+git status 
